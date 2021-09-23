@@ -1,0 +1,4 @@
+- Hi, I’m Jacob Hoover
+- I’m interested in front end development
+- I’m currently learning C++, JavaScript, PHP, Linux OS
+- How to reach me jacob.hoover@student.sl.on.ca
